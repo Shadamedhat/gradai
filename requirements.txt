@@ -1,7 +1,9 @@
 flask
-flask_cors
+flask-cors
 pymongo
+gunicorn
 transformers
 torch
-prophet
+scikit-learn
 pandas
+numpy
